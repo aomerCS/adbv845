@@ -11,6 +11,7 @@ TIP: As a square, he doesnt have much friction so take into account some sliding
 Open the game with the file name Cloud_Chaser to ensure the game opens with all the files attached!
 
 CONTROLS: 
+
 W - Jump
 
 A - Left
